@@ -1,0 +1,8 @@
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\Estrutura_de_Dados\ListaRecursãoResolvida\obj\Debug\ListaRecursãoResolvida.csproj.AssemblyReference.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\Estrutura_de_Dados\ListaRecursãoResolvida\obj\Debug\ListaRecursãoResolvida.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\Estrutura_de_Dados\ListaRecursãoResolvida\obj\Debug\ListaRecursãoResolvida.csproj.CoreCompileInputs.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\Estrutura_de_Dados\ListaRecursãoResolvida\bin\Debug\ListaRecursãoResolvida.exe.config
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\Estrutura_de_Dados\ListaRecursãoResolvida\bin\Debug\ListaRecursãoResolvida.exe
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\Estrutura_de_Dados\ListaRecursãoResolvida\bin\Debug\ListaRecursãoResolvida.pdb
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\Estrutura_de_Dados\ListaRecursãoResolvida\obj\Debug\ListaRecursãoResolvida.exe
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\Estrutura_de_Dados\ListaRecursãoResolvida\obj\Debug\ListaRecursãoResolvida.pdb
